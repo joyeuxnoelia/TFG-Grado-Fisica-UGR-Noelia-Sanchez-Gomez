@@ -1,0 +1,14 @@
+Ajustes de los datos de tiempo de ejecución en función de las hebras para 25, 26 y 27 qubits
+
+Para 25 qubits:
+log2(t) = -0.79 * log2(hebras) + 1.05
+
+Para 26 qubits:
+log2(t) = -0.84 * log2(hebras) + 2.28
+
+Para 27 qubits:
+log2(t) = -0.81 * log2(hebras) + 3.19
+
+Para 20 qubits:
+log2(t) = -0.78 * log2(hebras) + -4.87
+

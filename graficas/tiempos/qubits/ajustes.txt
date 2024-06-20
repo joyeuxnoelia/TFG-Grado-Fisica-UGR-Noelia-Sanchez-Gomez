@@ -1,0 +1,8 @@
+Ajustes de los datos de tiempo de ejecución en función de los qubits para la CPU y GPU
+
+Para la CPU:
+log2(t) = 1.01 * qubits + -28.46
+
+Para la GPU:
+log2(t) = 1.00 * qubits + -29.54
+

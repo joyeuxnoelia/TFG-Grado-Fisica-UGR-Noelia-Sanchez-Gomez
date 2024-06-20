@@ -1,0 +1,17 @@
+Ajustes de los datos de tiempo de ejecución en función de los qubits para la CPU y GPU
+
+Para la CPU:
+log2(t) = 0.96 * qubits + -26.72
+
+Error = 0.02
+
+Para la GPU:
+log2(t) = 0.96 * qubits + -28.28
+
+Error = 0.03
+
+Para la CPU con qsimh:
+log2(t) = 0.54 * qubits + -13.70
+
+Error = 0.01
+
